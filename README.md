@@ -1,6 +1,6 @@
 # E-commerce Elize Furniture Design App
 
-[![Image alt text](https://img.youtube.com/vi/sJW00J2S8r8/0.jpg)](https://www.youtube.com/watch?v=sJW00J2S8r8)
+-[elize-furniture-design-app.netlify.app](https://elize-furniture-design-app.netlify.app/)
 
 ## Technologies
 
